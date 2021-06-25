@@ -1,0 +1,24 @@
+step 1
+go to a new blox fruits server and dont click on pirates or marines
+
+step 2
+go to your script executor and put these lines in a new script
+
+wait(10)
+print(game.Players.LocalPlayer:GetMouse().X)
+print(game.Players.LocalPlayer:GetMouse().Y)
+
+step 3
+execute the script, go back to blox fruits and hover over either pirates or marines (preferred team while autohopping)
+
+step 4
+after 10 - 15 seconds, press f9 and copy the 2 number values that were printed 
+
+step 5
+copy the first value and go to the original script and find the variable "X", and replace the default value (0) with your new value
+
+step 6
+copy the second value and go to the original script and find the variable "Y", and replace the default value (0) with your new value
+
+step 7
+use the server hop now, if it isnt moving your mouse to the proper position, redo these steps
